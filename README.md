@@ -1,6 +1,6 @@
 **Daily Web Commits 🚀**
 
-19 y/o CS student learning full-stack development.
+CS student learning full-stack development.
 
 This repo is where I push code daily —
 small features, fixes, experiments, and practice.
